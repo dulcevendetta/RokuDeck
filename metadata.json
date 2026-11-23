@@ -1,0 +1,6 @@
+{
+  "name": "RokuDeck — Windows Roku TV Remote",
+  "description": "Windows desktop GUI and local network controller for managing Roku TVs remotely over External Control Protocol (ECP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
